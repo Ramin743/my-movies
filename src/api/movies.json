@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix 3",
+      "rating": "8.1",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "id": 7
+    },
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg",
+      "overview": "Six months aftero ...the  has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 8
+    },
+    {
+      "name": "Saw 3D",
+      "rating": "7.5",
+      "overview": "SAW legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+      "id": 11
+    },
+    {
+      "name": "Hostages2",
+      "rating": "6.5",
+      "overview": "Test test test– wracked by guilt from a prior stint as a negotiator – must negotiate the standoff, even as his own family is held captive by the mob.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg",
+      "id": 13
+    },
+    {
+      "name": "Riverdale (2017)",
+      "rating": "8.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "id": 14
+    },
+    {
+      "name": "Menim yeni kinom",
+      "rating": "8.6",
+      "overview": "In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, ..",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+      "id": 15
+    },
+    {
+      "name": "Expand The Good Doctor ",
+      "rating": "9.0",
+      "overview": "Doctor Cerrah with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives there",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+      "id": 16
+    },
+    {
+      "name": "Snowpiercer (2020)",
+      "rating": "7.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg",
+      "overview": "Set more than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
+      "id": 17
+    }
+  ]
+}
